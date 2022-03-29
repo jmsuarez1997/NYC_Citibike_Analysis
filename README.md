@@ -40,5 +40,6 @@ Where in NYC are customers riding bikes? Most customers are riding bikes in the 
 ![Chart6](https://raw.githubusercontent.com/jmsuarez1997/NYC_Citibike_Analysis/main/Resources/Chart6.png)
 ## Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis 
+Most of our customers are male subscribers. The average birthday for our customer is 1971, so the average age is 48, calculated from 2019. The average trip duration is 10.95 minutes. Both males and females ride bikes at 8 AM and 5 PM - 6 PM during the weekday. On weekends customers choose to ride bikes, mostly on Saturdays and throughout the day, starting at 10 AM and ending at 7 PM. 
 
+I would also create two other visualizations. The first would be a map of activity showing where subscribers vs. customers are riding bikes. The second visualization would be a map of activity showing where males vs. females are riding bikes. 
